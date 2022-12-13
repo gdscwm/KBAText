@@ -38,6 +38,10 @@ complex borders are first drawn on GIS software and then uploaded.
 **Delete all shapes currently in the map tool before uploading a file.**
 This is a temporary measure to avoid a known bug.
 
+Make sure that the file projection is in the EPSG:4326 projection. The portal,
+assumes this is the projection used, and uploading a different one may raise an
+error or return a scoping of the wrong area.
+
 Click on the **Upload data** button on the bottom-left and select a file. Most
 GIS file formats are supported. ESRI _shp_ files should be compressed in a _zip_
 file. Not supported: _kml_.
