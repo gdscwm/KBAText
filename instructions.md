@@ -42,6 +42,8 @@ Make sure that the file coordinate reference system is EPSG:4326 (Decimal
 Degrees & WGS84). The portal assumes this is the projection used, and uploading
 a different one may raise an error or return a scoping of the wrong area.
 
+Make sure the file you plan to upload contains no spaces in its filename.
+
 Click on the **Upload data** button on the bottom-left and select a file. Most
 GIS file formats are supported. ESRI _shp_ files should be compressed in a _zip_
 file. Not supported: _kml_.
