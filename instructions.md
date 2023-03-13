@@ -1,4 +1,6 @@
-# KBA Scoping Portal instructions
+<div>
+
+  # KBA Scoping Portal instructions
 
 The KBA Scoping Portal is currently in Beta release.  
 There are a small number of known bugs; please follow the following instructions
@@ -72,7 +74,7 @@ return information on potential trigger species.
 
 The downloaded file will also contain metadata files to help interpret the
 contents of the downloaded scoping outputs.
-
+</div>
 
 ## Bug reporting
 
