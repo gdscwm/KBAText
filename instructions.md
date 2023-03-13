@@ -11,7 +11,7 @@ The tool can currently be used to scope:
 * any number of drawn polygons
 * a single uploaded file with one feature (polygon or multipolygon)
 
-#### Drawing polygons
+### Drawing polygons
 
 **Delete all shapes currently in the map tool before beginning a drawn session.**
 This is a temporary measure to avoid a known bug.
@@ -33,7 +33,7 @@ or refreshed, all progress is lost. For this reason, it is best that sites with
 complex borders are first drawn on GIS software and then uploaded.
 
 
-#### Uploading files
+### Uploading files
 
 **Delete all shapes currently in the map tool before uploading a file.**
 This is a temporary measure to avoid a known bug.
@@ -53,7 +53,7 @@ field does not contain repeated values.
 
 Due to a current bug, only scope a single file with a single feature. 
 
-#### Scoping and viewing results
+### Scoping and viewing results
 
 Click on the **Query shapes** button on the bottom-right.
 
@@ -63,7 +63,7 @@ parameter displayed by the legend by selecting a different field in the bottom-l
 
 You can zoom to each scoped shape using the menu on the top-right.
 
-#### Downloading results
+### Downloading results
 
 You can either **Download All Data** or **Download Key Data**. The only
 difference is that _all data_ will return _csv_ files with information on all
