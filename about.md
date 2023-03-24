@@ -10,3 +10,14 @@ species for specific delineated sites, thereby providing a short list of species
 that can be assessed for a site. Details on how to interpret the results are
 given in the Metadata and Interpretation of results files available with the
 downloadable results.
+
+This tool was created by students at the Google Developer Student Club at W&M, including:
+- Clare Heinbaugh
+- Matt Cacioppo
+- Jason LaPierre
+- Charlie Dobson
+- Alex Batts
+- Emilio Luz-Ricca
+- Victor Tran
+- Joy Kuai
+- Kritika Jothishankar
